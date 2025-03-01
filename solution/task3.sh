@@ -1,0 +1,1 @@
+cd data && grep -wo 'Пугачев' pushkin.txt | wc -l

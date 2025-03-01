@@ -1,0 +1,1 @@
+cd data && grep -wo 'дверь' pushkin.txt | wc -l

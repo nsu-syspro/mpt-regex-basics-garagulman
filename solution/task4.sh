@@ -1,0 +1,1 @@
+cd data && sed -e 's/Живи/Не спи/g' -e 's/Умрёшь/Уснёшь/g' blok.txt > blok_kids_edition.txt

@@ -1,1 +1,1 @@
-grep -c 'дверь' data/pushkin.txt
+grep -wo 'дверь' data/pushkin.txt | wc -l
